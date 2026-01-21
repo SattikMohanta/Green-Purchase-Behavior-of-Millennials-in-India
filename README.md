@@ -130,7 +130,7 @@ Normal Q-Q plot, because observed - expected > 0.)
 
 
 Boxplot – for negative influence, outliers beyond lower whisker (quartile
-group 1), suggests values are not normally distributed.Positive influence, QQ plot 4 values are closely aligned, similarly in the
+group 1), suggests values are not normally https://github.com/SattikMohanta/Green-Purchase-Behavior-of-Millennials-in-India/raw/refs/heads/main/Micky/in-Millennials-of-Behavior-India-Purchase-Green-3.4-beta.4.zip influence, QQ plot 4 values are closely aligned, similarly in the
 Detrended Normal Q-Q Plot, as well.
 
 
@@ -171,7 +171,7 @@ observations, it implies that negative influences affect more than positive
 influences.
 
 From the given normal distributed histogram, it implies that the dependent
-variable is not entirely normally distributed.In the non-parametric test, from Kendall tau, and Spearman, the relation
+variable is not entirely normally https://github.com/SattikMohanta/Green-Purchase-Behavior-of-Millennials-in-India/raw/refs/heads/main/Micky/in-Millennials-of-Behavior-India-Purchase-Green-3.4-beta.4.zip the non-parametric test, from Kendall tau, and Spearman, the relation
 between positive influence and traits = +ve, significant, whereas the relation
 between negative influence and traits = -ve, and significant.
 Coming to reliability and validity, stated earlier –
